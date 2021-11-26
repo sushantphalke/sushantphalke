@@ -18,7 +18,7 @@
     <a href="https://twitter.com/sushantphalke2">
         <img src='img/twitter.svg' alt='twitter' height='40'>
     </a>
-    <a href="https://telegram.me/sushant phalke">
+    <a href="https://telegram.me/sushantphalke">
         <img src='img/telegram.svg' alt='telegram' height='40'>
     </a>
 </p>
