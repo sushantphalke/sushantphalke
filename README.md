@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <img width="500"
-   src="https://github-readme-stats.vercel.app/api?username=sushantphalke&theme=dark&show_icons=true"
+   src="https://github-readme-stats.vercel.app/api?username=sushantphalke&theme=dark&show_icons=true"/>
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/sushantphalke/">
