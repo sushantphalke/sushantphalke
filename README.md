@@ -1,4 +1,24 @@
-### Hi there 👋
+
+<h2 align="center">Hi there!! 👋</h2>
+
+<p align="center">
+    <img width="500"
+        src="https://github-readme-stats.sushantphalke.vercel.app/api/top-langs/?username=sushantphalke&langs_count=10&layout=compact&theme=tokyonight" 
+        alt="Dhananjay's Top Languages"
+    />
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/sushantphalke/">
+        <img src='img/linkedin.svg' alt='linkedin' height='40'>
+    </a>
+    <a href="https://twitter.com/sushantphalke2">
+        <img src='img/twitter.svg' alt='twitter' height='40'>
+    </a>
+    <a href="https://telegram.me/sushant phalke">
+        <img src='img/telegram.svg' alt='telegram' height='40'>
+    </a>
+</p>
 
 <!--
 **SushantPhalke/sushantphalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
