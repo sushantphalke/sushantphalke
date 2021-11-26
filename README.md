@@ -3,13 +3,13 @@
 
 <p align="center">
     <img width="500"
-        src="https://github-readme-stats.sushantphalke.vercel.app/api/top-langs/?username=SushantPhalke&langs_count=10&layout=compact&theme=tokyonight" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushantPhalke&langs_count=10&layout=compact&theme=tokyonight" 
         alt="Sushant's Top Languages"
     />
 </p>
 <p align="center">
-    ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushantphalke&theme=dark&show_icons=true)
-
+    <img width="500"
+   src="https://github-readme-stats.vercel.app/api?username=sushantphalke&theme=dark&show_icons=true"
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/sushantphalke/">
