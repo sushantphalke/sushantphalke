@@ -1,10 +1,10 @@
 
-<h2 align="center">Hi there!! 👋</h2>
+<h1 align="center">Hi there!! 👋</h1>
 
 <p align="center">
     <img width="500"
         src="https://github-readme-stats.sushantphalke.vercel.app/api/top-langs/?username=sushantphalke&langs_count=10&layout=compact&theme=tokyonight" 
-        alt="Dhananjay's Top Languages"
+        alt="Sushant's Top Languages"
     />
 </p>
 
