@@ -22,7 +22,11 @@
         <img src='img/telegram.svg' alt='telegram' height='40'>
     </a>
 </p>
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
 
 <!--
