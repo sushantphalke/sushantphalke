@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there!! 👋</h1>
+<h1 align="center">SUSHANT PHALKE</h1>
 
 <p align="center">
     <img width="500"
